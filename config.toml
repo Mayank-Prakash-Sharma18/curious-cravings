@@ -156,29 +156,63 @@ url = "categories/short-story/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Motivation"
-url = "categories/motivation/"
-weight = 2
+   name = "Psychology"
+   url = "#"
+   identifier = "psychology"
+   weight = 10
+
+   [[Languages.en.menu.main]]
+   name = "Motivation"
+   url = "categories/motivation/"
+   parent = "psychology"
+   weight = 11
+
+   [[Languages.en.menu.main]]
+   name = "Philosophy"
+   url = "categories/philosophy/"
+   parent = "psychology"
+   weight = 12
 
 [[Languages.en.menu.main]]
-name = "Philosophy"
-url = "categories/philosophy/"
-weight = 3
+   name = "Paranormal"
+   url = "#"
+   identifier = "paranormal"
+   weight = 20
+
+   [[Languages.en.menu.main]]
+   name = "Metaphysics"
+   url = "categories/metaphysics/"
+   parent = "paranormal"
+   weight = 21
+
+   [[Languages.en.menu.main]]
+   name = "Mysticism"
+   url = "categories/mysticism/"
+   parent = "paranormal"
+   weight = 22
 
 [[Languages.en.menu.main]]
-name = "Metaphysics"
-url = "categories/metaphysics/"
-weight = 5
+name = "Science"
+url = "categories/science/"
+weight = 30
 
 [[Languages.en.menu.main]]
-name = "About Us"
-url = "about-us"
-weight = 22
+   name = "Contact"
+   url = "#"
+   identifier = "contact"
+   weight = 360
 
-[[Languages.en.menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 23
+   [[Languages.en.menu.main]]
+   name = "Contact Us"
+   URL = "contact"
+   parent = "contact"
+   weight = 361
+
+   [[Languages.en.menu.main]]
+   name = "About Us"
+   url = "about-us"
+   parent = "contact"
+   weight = 362
 
 # footer menu
 [[Languages.en.menu.footer]]
@@ -213,30 +247,63 @@ url = "categories/short-story/"
 weight = 1
 
 [[Languages.hi.menu.main]]
-name = "प्रेरणा"
-url = "categories/motivation/"
-weight = 2
+   name = "मनोविज्ञान"
+   url = "#"
+   identifier = "psychology"
+   weight = 10
+
+   [[Languages.hi.menu.main]]
+   name = "प्रेरणा"
+   url = "categories/motivation/"
+   parent = "psychology"
+   weight = 11
+
+   [[Languages.hi.menu.main]]
+   name = "दर्शन"
+   url = "categories/philosophy/"
+   parent = "psychology"
+   weight = 12
 
 [[Languages.hi.menu.main]]
-name = "दर्शन"
-url = "categories/philosophy/"
-weight = 3
+   name = "पैरानॉर्मल"
+   url = "#"
+   identifier = "paranormal"
+   weight = 20
+
+   [[Languages.hi.menu.main]]
+   name = "तत्त्वमीमांसा"
+   url = "categories/metaphysics/"
+   parent = "paranormal"
+   weight = 21
+
+   [[Languages.hi.menu.main]]
+   name = "रहस्यवाद"
+   url = "categories/mysticism/"
+   parent = "paranormal"
+   weight = 22
 
 [[Languages.hi.menu.main]]
-name = "तत्त्वमीमांसा"
-url = "categories/metaphysics/"
-weight = 5
+name = "विज्ञान"
+url = "categories/science/"
+weight = 30
 
 [[Languages.hi.menu.main]]
-name = "हमारे बारे में"
-url = "about-us"
-weight = 22
+   name = "संपर्क"
+   url = "#"
+   identifier = "contact"
+   weight = 360
 
-[[Languages.hi.menu.main]]
-name = "संपर्क करें"
-URL = "contact"
-weight = 23
+   [[Languages.hi.menu.main]]
+   name = "संपर्क करें"
+   URL = "contact"
+   parent = "contact"
+   weight = 361
 
+   [[Languages.hi.menu.main]]
+   name = "हमारे बारे में"
+   url = "about-us"
+   parent = "contact"
+   weight = 362
 
 # footer menu
 [[Languages.hi.menu.footer]]

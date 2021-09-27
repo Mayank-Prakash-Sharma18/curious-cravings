@@ -19,7 +19,7 @@ Big Bang Theory is one of the theories put forward to explain the origin of our 
 
 As it is supported by many observations, it’s no surprise that it is the most accepted theory of the origin of universe nowadays. However, there are many grey areas even now. It cannot explain everything and so it is still evolving – a work in progress. 
 
-In this article, we will study about the Big Bang theory in some detail 
+In this article, we will study about the Big Bang theory in some detail.
 
 <div class="toc-mak">
   <img src="../../images/pencil.png">

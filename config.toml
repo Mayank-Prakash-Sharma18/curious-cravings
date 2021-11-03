@@ -112,7 +112,8 @@ sidebar = ["search", "about-me", "promotion", "authors", "subscription", "catego
 [[params.social]]
 name = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/our.curious.cravings/"
+# link = "https://www.facebook.com/Curious-Cravings-110014068135684"
 
 [[params.social]]
 name = "twitter"

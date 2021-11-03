@@ -111,7 +111,7 @@ The universe was more than a billion kilometres in diameter, and so its temperat
 
 This started 1 second after the big bang. Temperature was around <var>10<sup>9</sup></var> Kelvin.
 
-One second after the big bang, the universe was over 100 billion kilometres wide. And so, it was cool enough to form atoms, and the first element Helium came into existence. 
+One second after the big bang, the universe was over 100 billion kilometres wide. And so, it was cool enough to form atoms, and the first element Hydrogen came into existence. 
 
 After the end of radiation era, which lasted for around 50 thousand years, the next era of the universe started – the Matter Era. Matter became predominant. This is the era that we are living in even now. 
 Let’s see some of its epochs. 
@@ -120,7 +120,7 @@ Let’s see some of its epochs.
 
 This started 50 thousand years after the big bang. Temperature was around 3000 Kelvin.
 
-Universe has cooled down enough for the electrons to get attached with the nucleus. So, the second element came into existence – Hydrogen (<var>H<sub>2</sub></var>). 
+Universe has cooled down enough for the electrons to get attached with the nucleus. So, the second element came into existence – Helium (<var>H<sub>2</sub></var>). 
 
 ### Galactic Epoch
 

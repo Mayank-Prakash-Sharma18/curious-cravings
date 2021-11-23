@@ -9,8 +9,8 @@ author: "Mragank Shandilya"
 # description
 description: ""
 # Taxonomies
-categories: ["mysticism"]
-tags: ["astrology","kundali"]
+categories: ["mysticism","astrology"]
+tags: ["kundali"]
 type: "popular" # available type (epic, trending, popular, or regular)
 draft: false
 ---

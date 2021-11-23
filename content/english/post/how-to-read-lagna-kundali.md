@@ -9,8 +9,8 @@ author: "Mragank Shandilya"
 # description
 description: ""
 # Taxonomies
-categories: ["mysticism"]
-tags: ["astrology","kundali"]
+categories: ["mysticism","astrology"]
+tags: ["kundali"]
 type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---
@@ -39,7 +39,8 @@ There are various charts that are used in Astrology:
   <li>Relation between Houses of Kundali and Planets</li>
   <li>Relation between Planets</li>
   <li>Relation between Zodiac Signs (Rashis) and Planets</li>
-  <li>Some Case Studies</li>
+  <li>Some Examples</li>
+  <li>A Case Study</li>
   </ul>
 </div>
 
@@ -69,7 +70,7 @@ Each of the twelve houses (खाने या भाव) of a Lagna Chart stand
 * House 11 - It is the house of profit, income, achievements. It also gives us clues regarding our elder siblings and friends. 
 * House 12 - This is the house of loss, expenditure, foreign travels and settlement in other countries, etc. 
 
-Houses 3, 6, 8 and 12 are considered negative houses (as they are related to many negative aspects of our life). But there are some positives attached even with these houses. For example, house 12 is related to foreign travels, house 8 is related to deep research, house 6 is related to success in competition, and house 3 is related to attainment of our goals through our hard work and courage. 
+Houses 6, 8 and 12 are considered negative houses (as they are related to many negative aspects of our life). But there are some positives attached even with these houses. For example, house 12 is related to foreign travels, house 8 is related to deep research, and house 6 is related to success in competition. 
 
 
 ## Relation between Houses of Kundali and Zodiac Signs (Rashis)
@@ -238,7 +239,7 @@ Similarly, if a planet is in debilitated state, then it will give bad results ev
 
 ### Rule 2
 
-Even if the planet that is the owner of your lagna rashi (called lagnesh) is sitting in a negative house (i.e. 3, 6, 8 or 12) too, it will not give negative results. For example, if Scorpio (वृश्चिक) zodiac sign is your lagna, then it means that the first house of your kundali is governed by Mars. Mars is also the owner of Aries (मेष) zodiac sign, that is assigned to the 6th house. So, you will not witness any bad results related to the 6th house in your life. Your lagnesh will take care of that aspect of your life. 
+Even if the planet that is the owner of your lagna rashi (called lagnesh) is sitting in a negative house (i.e. 6, 8 or 12) too, it will not give negative results. For example, if Scorpio (वृश्चिक) zodiac sign is your lagna, then it means that the first house of your kundali is governed by Mars. Mars is also the owner of Aries (मेष) zodiac sign, that is assigned to the 6th house. So, you will not witness any bad results related to the 6th house in your life. Your lagnesh will take care of that aspect of your life. 
 
 ### Rule 3
 
@@ -265,7 +266,7 @@ The rules stated above are just the general rules. There are various exceptions 
 Now, we know the basics of Lagna Kundali. It's time to practice, by seeing some examples. 
 
 
-## Some Case Studies
+## Some Examples
 
 We will not start interpreting whole Kundalis as of now. But we will have a look at some minor aspects of a Kundali, and try to decipher its meaning. 
 
@@ -273,3 +274,96 @@ We will not start interpreting whole Kundalis as of now. But we will have a look
 
 * If Cancer (कर्क) zodiac sign is sitting in the first house of a kundali, then it means that Moon (चंद्र) is the lagnesh or the main governing planet of that kundali. Mars is in debilitated state in Cancer (कर्क) zodiac sign. So, Mars will give bad results in such a kundali if it is situated in the first house, even though it is a friendly planet of Moon. However, there are some yogs that neutralize the debilitated state, and even make that planet give positive results, e.g. Neechbhang rajyog (नीचभंग राजयोग). We will cover these special cases, and exceptions to the general rules in separate articles. 
 
+
+## A Case Study
+
+Let's consider an example. Here's a Kundali of a person who was born in the morning of 18th August, 1983, at 4:45 AM, at Meerut (UP).
+<img src="../../images/post/lagna-kundali-2.png" alt="Lagna Kundali" style="width:99%;height:99%;"> <br>
+
+In the above chart Su stands for Sun, Mo for Moon, Ma for Mars, Me for Mercury, Ju for Jupiter, Ve for Venus, Sa for Saturn, Ra for Rahu, and Ke for Ketu. 
+
+<div class="toc-mak">
+  <img src="../../../images/pencil.png">
+  <b>Note</b><br>
+
+Some Kundali generator software show three extra planets – Uranus (Ur), Neptune (Ne) and Pluto (Pl). However, you may ignore them for most practical purposes for now. 
+
+The kundali given above was made using the following online kundali software - <a href="https://ascloud.astrosage.com" target="_blank" title="Online Kundali Software" class="mak-link">Astrosage</a>
+</div>
+
+Now, let’s analyse this kundali. 
+
+### Which House is governed by which Zodiac Sign and Planet?
+
+Can you point out the zodiac signs (rashis) in the various houses of the above kundali, and probably the planets that own those signs?
+
+Here they are:
+<img src="../../images/post/lagna-kundali-3.png" alt="Lagna Kundali" style="width:99%;height:99%;"> <br>
+
+So, the Cancer Zodiac sign, which is sitting in the first house, is the Lagna of this kundali. As Cancer zodiac sign is owned by Moon planet, it will be called the Langesh of this kundali. 
+
+### Position of Planets and their Strength 
+
+Now, can you also see the various planets and their degrees?
+<img src="../../images/post/lagna-kundali-4.png" alt="Lagna Kundali" style="width:99%;height:99%;"> <br>
+
+You can observe in the kundali given above that:
+* Sun has 0°, and Moon, Mercury, Ketu and Rahu have 28°. So, these planets will almost be ineffective, i.e. they will give almost 0% results. 
+* Saturn has 5°, and so it will give 25% of its intended results. 
+* Mars has 9°, and Jupiter has 8°, and so they will give 50% of their intended results.
+* Venus has 12°, and so it will give 100% of its intended results.
+
+<div class="toc-mak">
+  <img src="../../../images/pencil.png">
+  <b>Influencing the strength of Planets</b><br>
+
+If a friendly planet in your kundali has very low degree, i.e. is weak, then it’s like having a weak friend – bad luck right! It won’t be able to do good to you, even if it wants too. 
+
+However, if an enemy planet in your kundali has very low degree, i.e. is weak, then it’s good for you. It won’t be able to do as much harm as it would otherwise have. 
+
+But you can influence the strength of the planets. Have you seen people wearing various stones? 
+
+That’s how it’s done. You can wear various stones for different planets and strengthen their effect on your life. For example, people wear White Pearl (Moti) for Moon planet. There are various other methods too though, e.g. various rituals, mantras, etc. 
+
+However, it should always be done under the supervision of an expert astrologer, and after thorough research. Strengthening the wrong planet at a wrong phase in your life may have adverse effects.
+</div>
+
+### Sight of Planets
+
+The next thing that we need to know is the sights of various planets. We know that each planet not only influences the house that it sits in, but also the house where it lays its sight (Drishti, दृष्टि) on. 
+
+The sights of various planets in the above kundali have been represented below:
+
+* All planets lay their sight on the 7th house from the house they are sitting in (while counting it, we start from the house in which that planet is sitting). That is, they lay their sight on the diagonally opposite house, as shown below.
+<img src="../../images/post/lagna-kundali-5.png" alt="Lagna Kundali" style="width:99%;height:99%;"> <br>
+
+* Mars (मंगल) also looks at 4th and 8th house from the house it is sitting in, as represented below: 
+<img src="../../images/post/lagna-kundali-6.png" alt="Lagna Kundali" style="width:99%;height:99%;"> <br>
+
+* Jupiter (बृहस्पति) also looks at 5th and 9th house from the house it is sitting in, as represented below:
+<img src="../../images/post/lagna-kundali-7.png" alt="Lagna Kundali" style="width:99%;height:99%;"> <br>
+
+* Saturn (शनि) also looks at 3rd and 10th house from the house it is sitting in, as represented below:
+<img src="../../images/post/lagna-kundali-8.png" alt="Lagna Kundali" style="width:99%;height:99%;"> <br>
+
+* Rahu (राहु) and Ketu (केतु) also look at 5th and 9th house from the house they are sitting in, as represented below:
+<img src="../../images/post/lagna-kundali-9.png" alt="Lagna Kundali" style="width:99%;height:99%;"> <br>
+
+### Exalted state and Debilitated state of Planets
+
+Another thing that we should consider is the Exalted (Uchcha, उच्च) state and Debilitated (Neech, नीच) state of various planets in the kundali. 
+
+Can you find out which planets are in which state in the above kundali?
+
+Let’s see.
+
+* Mars is in Cancer (कर्क) zodiac sign. Mars is in ***debilitated state*** in Cancer (कर्क) zodiac sign. 
+* Sun, Venus and Mercury are in Leo (सिंह) zodiac sign. No planet is in exalted or debilitated state in Leo zodiac sign.  
+* Saturn is in Libra (तुला) zodiac sign. Saturn is in ***exalted state*** in Libra (तुला) zodiac sign. 
+* Moon, Jupiter, and Ketu are in Scorpio (वृश्चिक) zodiac sign. Moon is in ***debilitated state*** in Scorpio (वृश्चिक) zodiac sign. While, Ketu is in ***exalted state*** if it is in Scorpio (वृश्चिक). 
+* Rahu is in Taurus (वृषभ) zodiac sign. Rahu is in ***exalted state*** in Taurus (वृषभ). 
+
+So, in the given kundali:
+* Exalted Planets – Saturn, Rahu, Ketu. (These planets are enemy planets of the Lagnesh Moon, but they will give good results, as they are in exalted state.)
+* Debilitated Planets – Mars, Moon. (Mars is a friendly planet of the Lagnesh Moon, but it will give bad results, as it is in debilitated state, unless there is some exceptional Yog like Neech bhang Raj Yog.)
+* Planets in normal state – Sun, Venus, Mercury, Jupiter. 

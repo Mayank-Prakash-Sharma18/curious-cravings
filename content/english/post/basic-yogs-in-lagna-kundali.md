@@ -15,9 +15,10 @@ type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
-In previous articles, you were introduced to the basic rules of Lagna Kundali. If you haven't, you may start by reading <a href="../how-to-read-lagna-kundali" title="Basics of lagna kundali" class="mak-link">the basics of lagna kundali in this article.</a> 
+In previous articles, you were introduced to the basic rules of Lagna Kundali. If you haven't read that, you may start by reading <a href="../how-to-read-lagna-kundali" title="Basics of lagna kundali" class="mak-link">the basics of lagna kundali in this article.</a> That article also tells you how we count houses in a kundali - a knowledge you need to have to understand this article. 
 
 However, just like English Grammer, there are a plethora of exceptions to almost every fundamental rule of Lagna Kundali. 
+
 In this article, we will go through some of such exceptions – often called as Yogs. 
 
 <div class="toc-mak">

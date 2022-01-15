@@ -64,3 +64,48 @@ Apart from the transit of planets, we also need to see which planet has the most
 
 The online kundali software that will make your Lagna kundali, will also showcase the various Mahadashas and Antardashas of planets in your kundali. 
 
+### Length of the time-period of Maha Dashas of various planets
+
+* Sun – 6 years
+* Mars – 7 years
+* Ketu – 7 years 
+* Moon – 10 years
+* Jupiter – 16 years
+* Mercury – 17 years
+* Rahu – 18 years
+* Saturn - 19 years 
+* Venus – 20 years
+
+<div class="toc-mak">
+  <img src="../../../images/pencil.png">
+  <b>Note</b><br>
+
+* Maha Dasha – Lasts for years and decades
+* Antar Dasha – Lasts for 1-2 years
+* Pratyantar Dasha – Lasts for 1-2 months 
+* Sookshm Dasha – Lasts for a week or a fortnight 
+* Pran Dasha – Lasts for 1-2 days
+</div>
+
+### Sequence of Mahadashas
+
+The Maha dashas come in a fixed pattern. This sequence has been given below:
+
+1. Sun
+2. Moon
+3. Mars
+4. Rahu
+5. Jupiter
+6. Saturn
+7. Mercury
+8. Ketu
+9. Venus
+
+Maha dasha of which planet is on in your life right now will depend on when you were born. So, it may vary from one person to another. For example, when I was born Maha Dasha of Mercury was there for a few years, then came the Maha dasha of Ketu, then Venus, then Sun, and nowadays Maha Dasha of Moon is ongoing in my life. 
+
+<div class="toc-mak">
+  <img src="../../../images/pencil.png">
+  <b>Sequence of Antar Dashas</b><br>
+
+Antar Dasha of planets also follow the same sequence. When Maha Dasha of a planet starts, the first Antardasha is also of that planet only. For example, if Maha Dasha of Moon will start, then the first Antardasha within that Mahadasha will be of Moon only, and then Mars, Rahu, and so on.
+</div>

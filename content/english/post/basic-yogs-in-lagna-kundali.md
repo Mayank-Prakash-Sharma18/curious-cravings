@@ -65,7 +65,15 @@ So, in short, if the owner of a bad house of the kundali is sitting in one of th
 But there are two added conditions:
 * Lagnesh should be powerful, i.e. its degree should be good. 
 * Lagnesh should not be sitting in a negative house (i.e. in 6, 8, 12, or even 3). 
+
 If these conditions are not fulfilled, then Vipreet Raj Yog will not be formed. 
+
+<div class="toc-mak">
+  <img src="../../../images/pencil.png">
+  <b>Note</b><br>
+
+Rahu and Ketu cannot for Vipreet Raj Yog, as they so not own any zodiac sign. So, if they are sitting in 6th, 8th or 12th houses of the kundali, then they will definitely give bad results.
+</div>
 
 <div class="toc-mak">
   <img src="../../../images/pencil.png">

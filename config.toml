@@ -192,6 +192,12 @@ weight = 1
    parent = "paranormal"
    weight = 22
 
+   [[Languages.en.menu.main]]
+   name = "Astrology"
+   url = "categories/astrology/"
+   parent = "paranormal"
+   weight = 23
+
 [[Languages.en.menu.main]]
 name = "Science"
 url = "categories/science/"
@@ -282,6 +288,12 @@ weight = 1
    url = "categories/mysticism/"
    parent = "paranormal"
    weight = 22
+
+   [[Languages.hi.menu.main]]
+   name = "ज्योतिष"
+   url = "categories/astrology/"
+   parent = "paranormal"
+   weight = 23
 
 [[Languages.hi.menu.main]]
 name = "विज्ञान"
